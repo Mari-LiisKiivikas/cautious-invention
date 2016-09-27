@@ -18,3 +18,9 @@
 - nimi
 - epost
 - id
+
+## toimingud/vaated
+- avaleht
+- retsepti sisestus
+- retsepti osting
+
